@@ -1,0 +1,11 @@
+site_name: "TECH BLOGS"
+nav:
+- Home: index.md
+- NET:
+    - IDS4: pages/Identityserver4.md
+- Linux:
+    - Mysql: pages/mysql.md
+- CMS:
+    - WP: pages/wordpressInstall.md
+- About: about.md
+- help: help.md
